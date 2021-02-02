@@ -163,7 +163,7 @@ Homeostasis And Signalling</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(65).pdf" style="text-decoration:none;">Precision
 Agriculture Technology For Crop Farming </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(66).pdf" style="text-decoration:none;">General Microbiology</a></li> 
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(67).pdf" style="text-decoration:none;">Genomics And Effectomics Of
 The Crop Killer Xanthomonas</a></li>                              
@@ -215,7 +215,8 @@ Epigenetics In Crop Biotechnology</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(83).pdf" style="text-decoration:none;">Versatile Roles Of Organelle
 Outer Membranes In Intracellular Communication</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(84).rar" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(84).pdf" style="text-decoration:none;">Conservation Biology
+in Sub-Saharan Africa</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(85).pdf" style="text-decoration:none;">Frontiers Of Sulfur
 Metabolism In Plant Growth, Development, And Stress Response</a></li>
@@ -332,5 +333,6 @@ Research</a></li>
 Assembly</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(125).pdf" style="text-decoration:none;">Alpine and
-Polar Treelines in a Changing Environment</a></li>   
+Polar Treelines in a Changing Environment</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(126).pdf" style="text-decoration:none;">A Primer for Computational Biology</a></li> 
   </ul>
