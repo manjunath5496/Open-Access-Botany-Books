@@ -68,15 +68,18 @@ Photosynthesis: From Natural To Artificial</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(25).pdf" style="text-decoration:none;">Endoplasmic Reticulum -
 Shape And Function In Stress Translation</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(26).pdf" style="text-decoration:none;">Root Systems Biology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(27).pdf" style="text-decoration:none;">Field Guide for the Identification of Damage on Woody Sentinel Plants</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(28).pdf" style="text-decoration:none;">A Dynamic Interplay Between
+Membranes And The Cytoskeleton Critical For Cell Development And Signaling</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(29).pdf" style="text-decoration:none;">Biogenesis Of The Oxidative
+Phosphorylation Machinery In Plants. From Gene Expression To Complex Assembly </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(30).pdf" style="text-decoration:none;">Virtual Plants: Modeling
+Plant Architecture In Changing Environments</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
