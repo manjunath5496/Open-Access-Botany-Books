@@ -81,75 +81,102 @@ Phosphorylation Machinery In Plants. From Gene Expression To Complex Assembly </
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(30).pdf" style="text-decoration:none;">Virtual Plants: Modeling
 Plant Architecture In Changing Environments</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(31).pdf" style="text-decoration:none;">Reversible Ubiquitylation In
+Plant Biology</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(32).pdf" style="text-decoration:none;">Sago Palm:
+Multiple Contributions to Food Security and Sustainable Livelihoods</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(33).pdf" style="text-decoration:none;">Pathophysiology And Epidemiology Of Virus-induced Asthma</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(34).pdf" style="text-decoration:none;">Improving
+Potassium Recommendations for Agricultural Crops</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(35).pdf" style="text-decoration:none;">Biodiversity in Agricultural Landscapes of Southeastern Brazil</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(36).pdf" style="text-decoration:none;">Regulation Of Cell Fate
+Determination In Plants</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(37).pdf" style="text-decoration:none;">Abiotic Stress: Molecular
+Genetics And Genomics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(38).pdf" style="text-decoration:none;">Guideline for Salinity
+Assessment, Mitigation and Adaptation Using Nuclear and Related Techniques</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(39).pdf" style="text-decoration:none;">Managing
+Socio-ecological Production Landscapes and Seascapes for Sustainable Communities in Asia</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(40).pdf" style="text-decoration:none;">Vascular Plants of Alberta, Part 1: Ferns, Fern Allies, Gymnosperms, and Monocots</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(41).pdf" style="text-decoration:none;">Linear Selection
+Indices in Modern Plant Breeding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(42).pdf" style="text-decoration:none;">Enhancing Smallholder
+Farmers' Access to Seed of Improved Legume Varieties Through Multi-Stakeholder Platforms</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(43).pdf" style="text-decoration:none;">Pre-Field Screening
+Protocols for Heat-Tolerant Mutants in Rice</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(44).pdf" style="text-decoration:none;">Mutation Breeding in Chickpea: Perspectives and Prospects for Food Security</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(45).pdf" style="text-decoration:none;">Sport, Spirituality,
+and Religion: New Intersections</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(46).pdf" style="text-decoration:none;">Communicating safely and effectively using plant names </a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(47).pdf" style="text-decoration:none;">Plant Name Resources: Building Bridges With Users</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(48).pdf" style="text-decoration:none;">Guide To The Naturalized And Invasive Plants Of Southeast Asia</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(49).pdf" style="text-decoration:none;">Lipid Signalling In
+Plant Development And Responses To Environmental Stresses</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(50).pdf" style="text-decoration:none;">The Proteins Of Plastid
+Nucleoids – Structure, Function And Regulation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(51).pdf" style="text-decoration:none;">Evolution Of Organismal
+Form: From Regulatory Interactions To Developmental Processes And Biological Patterns</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(52).pdf" style="text-decoration:none;">Advances In
+Plant-hemipteran Interactions</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(53).pdf" style="text-decoration:none;">Relevance Of Translational
+Regulation On Plant Growth And Environmental Responses</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(54).pdf" style="text-decoration:none;">Molecular Biology Of Bamboo
+Mosaic Virus – A Type Member Of The Potexvirus Genus </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(55).pdf" style="text-decoration:none;">Harvesting Plant And Microbial
+Biodiversity For Sustainably Enhanced Food Security</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(56).pdf" style="text-decoration:none;">Inter-cellular Electrical
+Signals In Plant Adaptation And Communication </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(57).pdf" style="text-decoration:none;">Optimizing Miscanthus For The
+Sustainable Bioeconomy: From Genes To Products</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(58).pdf" style="text-decoration:none;">Intra- And Inter-species
+Interactions In Microbial Communities</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(59).pdf" style="text-decoration:none;">Plant Responses To Flooding</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(60).pdf" style="text-decoration:none;">The Plant Microbiome And
+Its Importance For Plant And Human Health</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(61).pdf" style="text-decoration:none;"> Thiol-based Redox
+Homeostasis And Signalling</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(62).pdf" style="text-decoration:none;">Transfer Cells</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(63).pdf" style="text-decoration:none;">Guide To The Naturalized And Invasive Plants Of Eastern Africa</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(64).pdf" style="text-decoration:none;">Guide To The Naturalized And Invasive Plants Of Laikipia</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(65).pdf" style="text-decoration:none;">Precision
+Agriculture Technology For Crop Farming </a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(67).pdf" style="text-decoration:none;">Genomics And Effectomics Of
+The Crop Killer Xanthomonas</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(68).pdf" style="text-decoration:none;">Natural Diversity In The
+New Millennium</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(69).pdf" style="text-decoration:none;">Interplay Between No
+Signaling, ROS, And The Antioxidant System In Plants</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(70).pdf" style="text-decoration:none;">How Can Secretomics Help
+Unravel The Secrets Of Plant-microbe Interactions?</a></li> 
   
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Botany-Books/blob/master/bot(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
